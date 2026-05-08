@@ -1,12 +1,54 @@
-- 👋 Hi, I’m @Mohithsriram001
-- Web Developer...
-- Python Developer🐍...
-- 👀 I’m interested in Social service and that make me Satisfied...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Social Services...
-- ⚡ Fun fact: I am Eco friendly 🤗...
+# Hi 👋, I'm Mohith Sriram
 
-<!---
-Mohithsriram001/Mohithsriram001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Aspiring Software Developer
+
+🌱 Currently Learning:
+- Python
+- Web Development
+- JavaScript
+- AI Tools
+
+💻 Interested In:
+- Full Stack Development
+- AI Projects
+- Business Websites
+- Automation
+
+---
+
+## 🛠️ Skills
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- SQL
+
+---
+
+## 📌 Projects
+
+### 🔹 Warangal Pickles Website
+Business website for veg & non-veg pickles.
+
+### 🔹 Python Projects
+Beginner automation and logic projects.
+
+### 🔹 Portfolio Website
+Personal portfolio showcasing skills and projects.
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Mohithsriram001&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohithsriram001&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- Instagram: @warangal_pickles__
+- LinkedIn: Add Your LinkedIn
