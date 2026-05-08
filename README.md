@@ -50,5 +50,5 @@ Personal portfolio showcasing skills and projects.
 
 ## 🌐 Connect With Me
 
-- Instagram: @warangal_pickles__
-- LinkedIn: Add Your LinkedIn
+- Instagram: @mr_mohithsriram_official
+- LinkedIn: www.linkedin.com/in/mohithsriram-vemulapally-2607b53a9
