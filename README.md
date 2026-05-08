@@ -29,6 +29,14 @@
 
 ## 📌 Projects
 
+AI for Personalizing News and Media Feeds
+• Developed an AI-based system that personalizes news content based on user preferences and browsing
+behavior.
+• Implemented recommendation logic using Python.
+• Designed a basic user interface using HTML and CSS.
+• Improved user engagement by filtering relevant content dynamically.
+Technologies Used: Python, HTML, CSS
+
 ### 🔹 Warangal Pickles Website
 Business website for veg & non-veg pickles.
 
