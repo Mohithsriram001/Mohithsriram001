@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mohith Sriram
 
-## 🚀 Aspiring Software Developer
+## Aspiring Software Developer
 
 🌱 Currently Learning:
 - Python
